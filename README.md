@@ -1,0 +1,2 @@
+# Deloitte-Data-Analytics-Virtual-Internship-Projects-Tableau-Dashboard-Forensic-Technology
+Completed Deloitte Data Analytics Job Simulation projects involving Tableau dashboard development and forensic technology analysis. Built interactive dashboards for data visualization and performed equality score classification to identify fair, unfair, and highly discriminatory pay patterns using Excel-based analysis.
